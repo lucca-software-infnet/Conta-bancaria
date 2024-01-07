@@ -22,5 +22,7 @@ Ainda na classe que representa o sistema de tarifas (item anterior), crie um mé
 Implemente no programa principal um fluxo de repetição, condicional para instanciar o tipo da conta, de acordo com o desejo do usuário;
 Utilize a classe Console apenas no programa principal;
 Ademais, para o restante do programa, use os recursos da linguagem C# de acordo com os princípios da orientação a objetos e das boas práticas de código limpo.
+
 Diagrama de classes:
+
 ![image](https://github.com/lucca-software-infnet/Conta-bancaria/assets/123994038/d698ab68-cbc3-4cae-b50b-e18fdb4bb8c7)
